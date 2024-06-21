@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="set_tone">Set Tone</string>
+    <string name="save_alarm">Save Alarm</string>
+    <string name="_00_00">00:00</string>
+    <string name="_00_000">00:00</string>
+    <string name="hours_left">In %d hours</string>
+    <string name="set_new_alarm">Set New Alarm</string>
+    <string name="current_time">Current Time</string>
+    <string name="edit">edit_item</string>
+    <string name="delete">delete_item</string>
+    <string name="save1">Save</string>
+    <string name="delete1">Delete</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_item">Add Item</string>
+</resources>
+
+
